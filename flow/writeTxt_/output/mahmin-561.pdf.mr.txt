@@ -19,15 +19,62 @@
 राष्ट्रीय माहिती विज्ञान केंद्र (NIC) यांनी त्यांच्या संदर्भ क्र. २ येथील पत्रान्वये रु. ८२,०८,६५२/- (रुपये
 ब्याऐंशी लाख आठ हजार सहाशे बावन्न फक्त) इतक्या रकमेचा प्रस्ताव शासनास सादर केला आहे. सदर
 प्रस्तावाचा तपशील पुढीलप्रमाणे आहे.
+-----------------------------------------------------------------------------------------------------------------------
+| Sr. No | Position (Experience as per Tech Evaluation Criteria) | Unit | Rate (R) | Multiplication Factor (M) | Total Cost (RxM) |
+| 1 | Project Manager | Man Month | 93,312 | 4 | 3,73,248 |
+| 2 | Solution Architect | Man Month | 64,152 | 1 | 64,152 |
+| 3 | UI Designer | Man Month | 58,320 | 3 | 1,74,960 |
+| 4 | Developer (3-5 Years Experience) | Man Month | 37,325 | 32 | 11,94,400 |
+-----------------------------------------------------------------------------------------------------------------------
 # Page 2
 शासन निर्णय क्रमांकः वक्फ २०१९/प्र.क्र.१७४/का.४
+------------------------------------------------------------------------
+| 5 | Developer (5+ Years' Experience) | Man Month | 64,152 | 16 | 10,26,432 |
+| 6 | Quality Expert | Man Month | 40,824 | 3 | 1,22,472 |
+| 7 | Database Admin (3-5 Years' Experience) | Man Month | 58,320 | 4 | 2,33,280 |
+| 8 | Database Admin(5+ Years' Experience) | Man Month | 69,984 | 2 | 1,39,968 |
+| 9 | Security Expert | Man Month | 46,656 | 2 | 93,312 |
+| 10 | Tester (3-5 Years' Experience) | Man Month | 34,992 | 12 | 4,19,904 |
+| 11 | Tester (5+ Years' Experience) | Man Month | 58,320 | 12 | 3,49,950 |
+| 12 | Documentation Expert | Man Month | 29,160 | 4 | 1,16,640 |
+| 13 | Business Analyst (5+ Years' Experience) | Man Month | 52,488 | 4 | 2,09,952 |
+| 14 | Training and Change Management Expert | Man Month | 32,659 | 4 | 1,30,636 |
+------------------------------------------------------------------------
 Onsite Resource Deployment for 24 Months after Go-Live
+----------------------------------------------------------------------------------------------------------------------
+| Sr.No | Position (Experience as per Tech Evaluation Criteria) | Unit | Rate (R) | Multiplication Factor (M) | Total Cost (RxM) |
+| 1 | Developer (5+ Years' Experience) | Man Month | 64,152 | 24 | 15,39,648 |
+----------------------------------------------------------------------------------------------------------------------
 ONE Year Offsite Technical Support after ONE Year Warranty:
+-------------------------------------------------------------
+| Sr.No | Description | Year | Rate/ Year | Total Cost (RxM) |
+| 1 | Offsite Technical Support for 1 Year | 1 | 2,32, 464 | 2,32,464 |
+| 2 | 1 Year Technical Support |  |  | 2,32,464 |
+-------------------------------------------------------------
 Security Audit Charges:
+----------------------------------------------
+| Sr.No | Description | Agency | Charges (INR) |
+| 1 | Security Audit Charges (ONE Time) | 1 | 80,000 |
+| 2 |  |  | 80,000 |
+----------------------------------------------
 Cost Summary
+------------------------------------------------------------------------------
+| Sr. No | Particulars | Cost |
+| 1 | Development of Wakf Tribunal- CASE INFORMATION MANAGEMENT SYSTEM | 46,49,276 |
+| 2 | ONE Resource Deployment Charges for 24 Months after Go-Live | 15,39,648 |
+------------------------------------------------------------------------------
 पृष्ठ ४ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः वक्फ २०१९/प्र.क्र.१७४/का.४
+--------------------------------------------------------
+| 3 | Offsite Technical Support for 1 Year | 2,32,464 |
+| 4 | Security Audit Charges (ONE Time) | 80,000 |
+| 5 | Sub Total | 65,01,388 |
+| 6 | Administrative charges (NICSI Charges @ 7%) | 4,55,097 |
+| 7 | Total | 69,56,485 |
+| 8 | GST @ 18% | 12,52,167 |
+| 9 | Grand Total | 82,08,652 |
+--------------------------------------------------------
 २. ई कोर्टच्या धर्तीवर महाराष्ट्र राज्य वक्फ न्यायाधिकरणाचे संकेतस्थळ / Case Information
 Management System राष्ट्रीय माहिती विज्ञान केंद्र (NIC) यांच्याकडून तयार करुन घेण्यासाठी तसेच
 त्यासाठी येणारा उपरोक्त प्रमाणे रु.८२,०८,६५२/- (रुपये ब्याऐंशी लाख आठ हजार सहाशे बावन्न फक्त)

@@ -34,8 +34,29 @@
 किंवा संकलित केलेला निधी खालील बॅक खात्यावर परस्पर हस्तांतर करण्यात यावा
 व त्याचा अनुपालन अहवाल या कार्यालयात दि. १५ डिसेंबर, २०१८ पर्यत न चुकता
 पाठवावा.
+-------------------------------------------------------------
+| Name of Bank | Central Bank of India |
+| Address of Bank | Khan Market, New Delhi-110003 |
+| Name of A/C holder | National Foundation for Communal Harmony |
+| Account Number | 1065439058 |
+| NEFT/IFSC/RTGS | CBIN 0280310 |
+-------------------------------------------------------------
 Or
+---------------------------------------------------------------------
+| Name of Bank | State Bank of India |
+| Address of Bank | Nirman Bhavan, Maulana Azad Road, New Delhi- 110011 |
+| Name of A/C holder | National Foundation for Communal Harmony |
+| Account Number | 10569548047 |
+| NEFT/IFSC/RTGS | SBIN 0000583 |
+---------------------------------------------------------------------
 Or
+-------------------------------------------------------------
+| Name of Bank | Bank of India |
+| Address of Bank | Khan Market, New Delhi- 110003 |
+| Name of A/C holder | National Foundation for Communal Harmony |
+| Account Number | 600710110006040 |
+|  |  NEFT/IFSC/RTGS | BKID 0006007 |
+-------------------------------------------------------------
 पृष्ठ ४ पैकी २
 # Page 3
 शासन परिपत्रक क्रमांकः कौएदि-२०१८/प्र.क्र.९३/का.८
