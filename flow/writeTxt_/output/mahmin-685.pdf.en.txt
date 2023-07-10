@@ -28,7 +28,7 @@ Government Circular No: KAUEDDI-2022/ PR No.64/ KAU.8
 | Account Number     | 1065439058                               |
 | NEFT/IFSC/RTGS     | CBIN 0280310                             |
 -----------------------------------------------------------------
-|NEFT/IFSC/RTGS CBIN 0280310 Or
+Or
 ----------------------------------------------------------------------------
 | Name of Bank       | State Bank of India                                 |
 | Address of Bank    | Nirman Bhavan, Maulana Azad Road, New Delhi- 110011 |

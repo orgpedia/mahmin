@@ -44,7 +44,7 @@ Or
 | Account Number | 10569548047 |
 | NEFT/IFSC / RTGS |  |  SBIN0000583 |
 ------------------------------------------------------------------------
-|NEFT/IFSC / RTGS | SBIN0000583 Or
+Or
 -------------------------------------------------------------
 | Name of Bank | Bank of India |
 | Address of Bank | Khan Market, New Delhi- 110003 |

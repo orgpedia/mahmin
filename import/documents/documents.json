@@ -9571,5 +9571,57 @@
     "name": "mahmin-794.pdf",
     "num_pages": 4,
     "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/Minorities/09-Jul-2023/202306281610373014.pdf": {
+    "code": "202306281610373014",
+    "crawl_dir": "09-Jul-2023",
+    "date": "28-06-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-07-09T21:43:34.489897",
+    "size_kb": "153",
+    "text": "Maharashtra State Minority Commission regarding the distribution of salary, overtime allowance, dearness allowance and subsidy for salary matters for the financial year 2023-24 for the month of June, 2023.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202306281610373014.pdf",
+    "name": "mahmin-795.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/Minorities/09-Jul-2023/202307041526160814.pdf": {
+    "code": "202307041526160814",
+    "crawl_dir": "09-Jul-2023",
+    "date": "04-07-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-07-09T21:43:21.820099",
+    "size_kb": "201",
+    "text": "grant release for minority girls hostels",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307041526160814.pdf",
+    "name": "mahmin-796.pdf",
+    "num_pages": 5,
+    "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/Minorities/09-Jul-2023/202307041539269114.pdf": {
+    "code": "202307041539269114",
+    "crawl_dir": "09-Jul-2023",
+    "date": "04-07-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-07-09T21:43:26.043269",
+    "size_kb": "156",
+    "text": "grant release for minority Politechniqe",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307041539269114.pdf",
+    "name": "mahmin-797.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/Minorities/09-Jul-2023/202307041543324914.pdf": {
+    "code": "202307041543324914",
+    "crawl_dir": "09-Jul-2023",
+    "date": "04-07-2023",
+    "dept": "Minorities Development Department",
+    "download_time": "2023-07-09T21:43:30.239806",
+    "size_kb": "179",
+    "text": "grant release for ITI",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307041543324914.pdf",
+    "name": "mahmin-798.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }
